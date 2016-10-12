@@ -1,7 +1,7 @@
-# IMDB Top 250
+# IMDb Top 250
 A checklist of the films I've watched from IMDb's 'Top 250' list.
 
-1. ~~The Shawshank Redemption (1994)~~ 9.2
+1. ~~The Shawshank Redemption (1994) 9.2~~
 2. The Godfather (1972) 9.2
 3. The Godfather: Part II (1974) 9.0
 4. The Dark Knight (2008) 8.9
