@@ -51,7 +51,7 @@ A checklist of the films I've watched from IMDb's 'Top 250' list (list and score
 48. ~~Apocalypse Now (1979) 8.5~~
 49. ~~The Prestige (2006) 8.5~~
 50. ~~The Lion King (1994) 8.5~~
-51. ~~Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb ~~(1964) 8.4
+51. ~~Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964) 8.4~~
 52. ~~Alien (1979) 8.4~~
 53. Sunset Boulevard (1950) 8.4
 54. The Great Dictator (1940) 8.4
