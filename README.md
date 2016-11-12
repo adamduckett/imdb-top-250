@@ -154,7 +154,7 @@ A checklist of the films I've watched from IMDb's 'Top 250' list (list and score
 151. Tokyo Story (1953) 8.1
 152. ~~The Big Lebowski (1998) 8.1~~
 153. The Deer Hunter (1978) 8.1
-154. Dial M for Murder (1954) 8.1
+154. ~~Dial M for Murder (1954) 8.1~~
 155. ~~Trainspotting (1996) 8.1~~
 156. ~~Gone with the Wind (1939) 8.1~~
 157. ~~Star Wars: The Force Awakens (2015) 8.1~~
