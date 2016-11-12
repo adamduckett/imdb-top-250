@@ -60,7 +60,7 @@ A checklist of the films I've watched from IMDb's 'Top 250' list (list and score
 57. Paths of Glory (1957) 8.4
 58. ~~Django Unchained (2012) 8.4~~
 59. ~~The Shining (1980) 8.4~~
-60. Grave of the Fireflies (1988) 8.4
+60. ~~Grave of the Fireflies (1988) 8.4~~
 61. ~~WALL·E (2008) 8.4~~
 62. ~~The Dark Knight Rises (2012) 8.4~~
 63. ~~American Beauty (1999) 8.4~~
